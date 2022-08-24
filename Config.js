@@ -36,8 +36,8 @@ global.fbt = 'Follw Us ℹ️' // 👈 Enter (Subscribe/Follow/Like now)
 global.myweb = 'https://www.facebook.com/profile.php?id=100027649474808'// 👈 Enter your Social media link to follow now button
 global.welcome = '*Welcome To The Group 🦋*' // 👈 You Can change this your choice
 global.bye = '*Bye bye Mother fucker 🐼*' // 👈 You Can change this your choice
-global.packname = 'GARFIELD-BOTv8'  // 👈 You Can change this your choice 
-global.author = 'NOIZE DEVELOPMENT' // 👈 You Can change this your choice 
+global.packname = '「𝐷𝐴𝑁𝑌𝑂𝑋 ༆⚙️💙」'  // 👈 You Can change this your choice 
+global.author = '「𝐷𝐴𝑁𝑌𝑂𝑋 ༆⚙️💙」' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
